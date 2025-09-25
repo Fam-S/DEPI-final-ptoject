@@ -1,2 +1,2 @@
-# DEPI final ptoject
+# DEPI final project
 chatbot 
